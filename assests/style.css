@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+.game-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+#scenario {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+#options button {
+    display: block;
+    margin: 5px auto;
+    padding: 10px;
+    width: 80%;
+}
+#timer {
+    font-size: 1.5em;
+    margin: 10px;
+}
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+}
